@@ -2,10 +2,12 @@
 
 ## Environment:
 Python 3.6
+
 Tensorflow 1.x
 
 ## Prerequisites:
 1. Download the trained BeautyGAN model weights from this link : https://drive.google.com/drive/folders/1J8vjyjaikPAXF9ln-2zvT8xkbM4c7QyM?usp=sharing  and make sure you are logged in into your google account
+
 2. Place these weights in "model" folder
 
 ## Usage:
@@ -32,11 +34,14 @@ We can use BiSeNet which segments the output and input images. Then we can copy 
 
 ## Environment:
 Python 3.6
+
 Tensorflow 2.x
+
 Transformers latest version
 
 ## Prerequisites:
 1. Download the trained Sentiment Analysis model weights from this link : https://drive.google.com/file/d/1Nc7-IY62dFMtJLb117aZ9gZoEMnS-qNM/view?usp=sharing  and make sure you are logged in into your google account
+
 2. Place these weights in "Sentiment_Analysis_Weights" folder
 
 ## Credits:
