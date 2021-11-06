@@ -8,7 +8,7 @@ Tensorflow 1.x
 ## Prerequisites:
 1. Download the trained BeautyGAN model weights from this link : https://drive.google.com/drive/folders/1J8vjyjaikPAXF9ln-2zvT8xkbM4c7QyM?usp=sharing  and make sure you are logged in into your google account
 
-2. Place these weights in "model" folder
+2. Place these weights in "/BeautyGan/BeautyGAN/model" folder (You have to create the folder)
 
 ## Usage:
 You can use the driver code given in the Myntra_Virtual_Makeup_Tryon.ipynb
@@ -42,7 +42,7 @@ Transformers latest version
 ## Prerequisites:
 1. Download the trained Sentiment Analysis model weights from this link : https://drive.google.com/file/d/1Nc7-IY62dFMtJLb117aZ9gZoEMnS-qNM/view?usp=sharing  and make sure you are logged in into your google account
 
-2. Place these weights in "/Beauty_Recommendation/Sentiment_Analysis_Weights" folder (You have to create this folder)
+2. Place these weights in "/Beauty_Recommendation/Sentiment_Analysis_Weights" folder (You have to create the folder)
 
 ## Credits:
 This implementation is purely done by us and we also used simple custom formula to take reviews,rating and also similarity into consideration
