@@ -50,7 +50,7 @@ We have used the T-distributed Stochastic Neighbor Embedding (t-SNE) for reducin
 
 Using this Critical Score we will be sorting the products and these are the final outputs.
 
-Formula we used: CriticalScore = ConfidenceScore*10000 + ((Rating*1000)-(Similarity*1000))
+Formula we used: CriticalScore = ConfidenceScore x 10000 + ((Rating x 1000)-(Similarity x 1000))
 
 Here: ConfidenceScore - Probability of SentimentClassifier Whether it is Positive or Negative
 
