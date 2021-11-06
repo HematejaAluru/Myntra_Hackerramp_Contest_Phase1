@@ -52,7 +52,7 @@ Using this Critical Score we will be sorting the products and these are the fina
 
 Formula we used: CriticalScore = ConfidenceScore x 10000 + ((Rating x 1000)-(Similarity x 1000))
 
-Here: ConfidenceScore - Probability of SentimentClassifier Whether it is Positive or Negative
+Here: ConfidenceScore - Probability of SentimentClassifier - Whether the sentence is Positive or Negative
 
 Here: Rating - Overall Rating of product in the website (between 0 and 5)
 
