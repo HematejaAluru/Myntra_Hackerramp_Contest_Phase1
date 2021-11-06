@@ -42,7 +42,7 @@ Transformers latest version
 ## Prerequisites:
 1. Download the trained Sentiment Analysis model weights from this link : https://drive.google.com/file/d/1Nc7-IY62dFMtJLb117aZ9gZoEMnS-qNM/view?usp=sharing  and make sure you are logged in into your google account
 
-2. Place these weights in "Sentiment_Analysis_Weights" folder
+2. Place these weights in "/Beauty_Recommendation/Sentiment_Analysis_Weights" folder (You have to create this folder)
 
 ## Credits:
 This implementation is purely done by us and we also used simple custom formula to take reviews,rating and also similarity into consideration
