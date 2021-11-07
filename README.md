@@ -23,7 +23,7 @@ This code has been taken from the specified repo.
 ## Implementation:
 We have tried using SCGAN,PSGAN and BeautyGAN. But, BeautyGAN gave us consistent results among all of them. We can see that BeautyGAN is giving promising results.But, Sometimes the color of the product is being changed in the output. 
 
-![Alt text](/assets/result_1.jpg?raw=true "Title")
+![Alt text](/assets/result_kajal.jpg?raw=true "Title")
 
 ![Alt text](/assets/result_shraddha.jpg?raw=true "Title")
 
